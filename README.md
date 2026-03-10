@@ -13,7 +13,7 @@ This project is just for fun. Two LLMs carry on a conversation based on an initi
 - **Resources:** VM with 16GB RAM. We'll be downloading two light-weight LLMs, so RAM is crucial.
 
 ## Setup Instructions
-Navigate to the `App_Deploy` directory and run the fully automated deployment script:
+Run the deployment script:
 ```bash
 ./setup.sh
 ```
